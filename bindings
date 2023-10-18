@@ -1,0 +1,4 @@
+[
+    { "keys": ["pagedown"], "command": "next_view" },
+    { "keys": ["pageup"], "command": "prev_view" },
+]
